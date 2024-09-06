@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SaludoApp</string>
+    <string name="et_hint_nombre">Ingresa tu nombre</string>
+    <string name="btn_saludar">Saludar</string>
+    <string name="cd_imagen_saludo">Imagen con dos manos saludando</string>
+    <string name="tv_hello">Hola, %1$s Bienvenido/a!</string>
+</resources>
